@@ -1,0 +1,45 @@
+[
+	{
+		"Id": 1,
+        "Latitude": -23.564449,
+        "Longitude": -46.666769,
+		"Descricao": "Conteúdo 1"
+    },
+    {
+		"Id": 2,
+        "Latitude": -23.565502,
+        "Longitude": -46.66796,
+		"Descricao": "Conteúdo 2"
+    },
+    {
+		"Id": 3,
+        "Latitude": -23.562443,
+        "Longitude": -46.664742,
+		"Descricao": "Conteúdo 3"
+    },
+    {
+    "Id": 4,
+        "Latitude": -23.564056,
+        "Longitude": -46.666426,
+        "Descricao": "Conteúdo 4"
+    },
+    {
+    "Id": 5,
+        "Latitude": -23.557536,
+        "Longitude": -46.659603,
+        "Descricao": "<iframe width='267' height='200' src='http://www.youtube.com/embed/HuP_P2tdivk' frameborder='0' allowfullscreen></iframe><p>bla bla bla</p>"
+    },
+    {
+    "Id": 6,
+        "Latitude": -23.559808,
+        "Longitude": -46.661974,
+        "Descricao": "Conteúdo 6"
+    },
+    {
+    "Id": 7,
+        "Latitude": -23.56205,
+        "Longitude": -46.664349,
+        "Descricao": "Conteúdo 7"
+    }
+
+]
